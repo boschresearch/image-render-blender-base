@@ -41,7 +41,6 @@ try:
     from . import viewlayer
     from . import scene
     from . import ops_object
-    from . import points
 except Exception:
     pass
 # enddef
